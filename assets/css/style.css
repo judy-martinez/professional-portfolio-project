@@ -77,4 +77,8 @@ section {
     background-size: cover;
     background-position: center;
   }
+
+  .hero-form {
+    background-color: #fce138;
+  }
   /* Hero Style End */
