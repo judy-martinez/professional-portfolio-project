@@ -75,5 +75,6 @@ section {
     background-image: url("../images/human-machine.jpg");
     height: 600px;
     background-size: cover;
+    background-position: center;
   }
   /* Hero Style End */
