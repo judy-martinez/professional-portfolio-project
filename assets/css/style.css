@@ -74,5 +74,6 @@ section {
 .hero {
     background-image: url("../images/human-machine.jpg");
     height: 600px;
+    background-size: cover;
   }
   /* Hero Style End */
