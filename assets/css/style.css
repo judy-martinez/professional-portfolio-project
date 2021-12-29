@@ -263,4 +263,29 @@ section {
   color: #fce138;
 }
   
-  /* REACH OUT STYLES END */
+/* REACH OUT STYLES END */
+
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+  /* this will be applied on any screen smaller than 575px */
+  .section-title {
+    width: 95%;
+  }
+
+  .intro p {
+    width: 100%;
+  }
+
+  .work {
+    flex: 0 100%;
+  }
+
+  .contact-info {
+    text-align: center;
+  }
+
+  .contact-info > * {
+    flex: 0 100%;
+  }
+  
+}
